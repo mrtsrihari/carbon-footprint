@@ -1,0 +1,12 @@
+{
+  "name": "c-track-iot-bridge",
+  "version": "1.0.0",
+  "description": "C-TRACK IoT HTTP REST and WebSocket Gateway Server",
+  "main": "ingestionServer.js",
+  "scripts": {
+    "start": "node ingestionServer.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
